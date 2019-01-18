@@ -13,15 +13,15 @@
  *Building this project will require some skills in ordering and assembling  electronic circuits as well as programming, and I have not included detailed instructions to take a beginner through the steps. I still hope some still find information here useful, maybe also for other projects.*
 
 ## The completed hardware
-![The HAN Reader Hardware](./Electrical/HAN_ESP_TSS721/images/HanReaderInEnclosure.PNG)
+![The HAN Reader Hardware](./Images/HanReaderInEnclosure.PNG)
 
-*The completed board mounted in a [3D printed enclosure](/Electrical/HAN_ESP_TSS721/enclosure)*
+*The completed board mounted in a [3D printed enclosure](./Enclosure)*
 
-![The HAN Reader Installed](./Electrical/HAN_ESP_TSS721/images/HanReaderConnected.PNG)
+![The HAN Reader Installed](./Images/HanReaderConnected.PNG)
 
 *...installed with the electrical meter...*
 
-![Data from MQTT displayed on a Node Red Dashboard](./logo/NodeRedScreen.PNG)
+![Data from MQTT displayed on a Node Red Dashboard](./Images/NodeRedScreen.PNG)
 
 *...and, showing data on a [Node Red](https://nodered.org/) dashboard*
 
